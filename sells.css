@@ -32,12 +32,12 @@ img {
     height: 550px;
     width: 100%;
 	font-family: "poppins", sans-serif;
-   	background-image:url("real.jpg ");
+   	background-image:url("https://www.raiznerlaw.com/wp-content/uploads/2021/11/Untitled-design-2021-11-16T102228.760.png ");
 	background-blend-mode: multiply;
 
 }
 
-.text h1{color: peru;
+.text h1{color: red;
 	text-align: center;
 	font-size: 90px;
 	font-weight: 300;
